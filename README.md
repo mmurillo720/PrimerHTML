@@ -1,7 +1,7 @@
-# PrimerHTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
+</head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -104,7 +104,16 @@
   <label>Nombre</label>
   <input type="text" placeholder="Tu nombre">
 
-  <label <Te
+  <label>Telefóno</label>
+  <input type="tel" placeholder="Tú teléfono">
+  
+  <label>Correo</label>
+  <input type="email" placeholder="Tu E-mail">
+
+  <label>Mensaje</label>
+  <textarea></textarea>
+
+  <input type="submit" value="Enviar">
 
  
  </fieldset>
